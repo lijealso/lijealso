@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @lijealso
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning:
+- 🌱 Doing
      🌱 Computer Programming
+     🌱 Web development
+- 🌱 Lerning:
      🌱 Google Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lijealso@gmail.com
