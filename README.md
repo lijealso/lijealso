@@ -3,8 +3,6 @@
 - 🌱 Doing
      🌱 Computer Programming
      🌱 Web development
-- 🌱 Lerning:
-     🌱 Google Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lijealso@gmail.com
 
@@ -34,6 +32,13 @@ Working on several sites of an NGO:
 - Worpress site for one of the NGO's projects
 - Online complaints management system
 
+1. 🌱 Learning, online courses
+   - 🌱 Google Data Analytics
+   - 🌱 Google UX Design
+   - 🌱 HarvardX CS50's Introduction to Computer Science
+   - 🌱 Udemy: React.JS & Next.JS (intermediate/advanced)
+   - 🌱 Udemy: Python Bootcamp
+   - 🌱 Udemy: Web Development Bootcamp
 
 <!---
 lijealso/lijealso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
