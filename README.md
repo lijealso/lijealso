@@ -28,6 +28,12 @@ Course Units included:
 - Visual Basic .NET
 - C#
 
+Working on several sites of an NGO:
+- Online shop
+- Online booking system for one of the NGO's projects
+- Worpress site for one of the NGO's projects
+- Online complaints management system
+
 
 <!---
 lijealso/lijealso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
