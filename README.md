@@ -40,6 +40,11 @@ Working on several sites of an NGO:
    - 🌱 Udemy: Python Bootcamp
    - 🌱 Udemy: Web Development Bootcamp
 
+Codewars:
+<p align="left">
+  <img src="https://www.codewars.com/users/lijealso/badges/large" width="350" title="Codewars">
+</p>
+
 <!---
 lijealso/lijealso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
