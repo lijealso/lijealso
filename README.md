@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 Doing
      🌱 Computer Programming
-     🌱 Web development / design
+     🌱 Web development / Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lijealso@gmail.com
 
