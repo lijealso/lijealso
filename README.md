@@ -33,8 +33,8 @@ Working on several sites of an NGO:
 - Online complaints management system
 
 1. 🌱 Learning, online courses
-   - 🌱 Google Data Analytics
-   - 🌱 Google UX Design
+   - 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+   - 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
    - 🌱 [HarvardX CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
    - 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
    - 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
