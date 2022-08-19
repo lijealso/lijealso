@@ -25,6 +25,7 @@ Course Units included:
 - Database Administration
 - Visual Basic .NET
 - C#
+- Curricular Internship in an NGO, grade : 20 out of 20
 
 Working on several sites of an NGO:
 - Online shop
@@ -32,16 +33,19 @@ Working on several sites of an NGO:
 - Worpress site for one of the NGO's projects
 - Online complaints management system
 
-1. 🌱 Learning, online courses
-   - 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-   - 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
-   - 🌱 [HarvardX CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-   - 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
-   - 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
-   - 🌱 [HarvardX CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)  
-   - 🌱 Udemy: React.JS & Next.JS (intermediate/advanced)
-   - 🌱 Udemy: Python Bootcamp
-   - 🌱 Udemy: Web Development Bootcamp
+Learning, online courses:
+- 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+- 🌱 [HarvardX CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+- 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
+- 🌱 [HarvardX CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)  
+- 🌱 Udemy: React.JS & Next.JS (intermediate/advanced)
+- 🌱 Udemy: Python Bootcamp
+- 🌱 Udemy: Web Development Bootcamp
+   
+Other Certificates:
+- 🌱 [Codecademy - Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3)
    
 Stats:
 
