@@ -47,7 +47,7 @@ Learning, online courses:
 Other Certificates:
 - 🌱 [Codecademy - Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijealso&layout=compact)](https://github.com/lijealso)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijealso&layout=compact&langs_count=10)](https://github.com/lijealso)
 
 Codewars:
 <p align="left">
