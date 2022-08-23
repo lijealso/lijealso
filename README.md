@@ -45,7 +45,12 @@ Learning, online courses:
 - 🌱 Udemy: Web Development Bootcamp
    
 Other Certificates:
-- 🌱 [Codecademy - Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
+<p align="left"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" width="100" title="Codecademy"></p>
+
+- [Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
+<br>
+
+GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijealso&layout=compact&langs_count=10)](https://github.com/lijealso)
 
