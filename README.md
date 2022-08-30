@@ -55,6 +55,7 @@ GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijealso&layout=compact&langs_count=10)](https://github.com/lijealso)
 
 ![Lijealso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijealso&show_icons=true&theme=radical)
+![Lijealso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijealso&show_icons=true&theme=radical)
 
 Codewars:
 <p align="left">
