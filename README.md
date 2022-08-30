@@ -36,7 +36,6 @@ Working on several sites of an NGO:
 Learning, online courses:
 - 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
-- 🌱 [HarvardX CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 - 🌱 [HarvardX CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)  
@@ -54,7 +53,6 @@ GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijealso&layout=compact&langs_count=10)](https://github.com/lijealso)
 
-![Lijealso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijealso&show_icons=true&theme=radical)
 ![Lijealso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijealso&show_icons=true&theme=radical)
 
 Codewars:
