@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @lijealso
-- 👀 I’m interested in ...
-- 🌱 Doing
-     🌱 Computer Programming
-     🌱 Web development / Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: lijealso@gmail.com
+👋 Hi, I’m @lijealso
+👀 I’m interested in ...
+
+🌱 Doing:
+- 🌱 Computer Programming
+- 🌱 Web development / Design
+- 🌱 Data Analytics
+
+
+💞️ I’m looking to collaborate on ...
+
+📫 How to reach me: lijealso@gmail.com
 
 Have a Qualification Certificate as Programmer issued by the State Employment Agency.
 Course Units included:
@@ -35,6 +40,7 @@ Working on several sites of an NGO:
 
 Learning, online courses:
 - 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🌱 [Codecademy Career Path: Data Scientist: Analytics Specialist](https://www.codecademy.com/learn/paths/data-analyst)
 - 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
