@@ -40,7 +40,7 @@ Working on several sites of an NGO:
 
 Learning, online courses:
 - 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-- 🌱 [Codecademy Career Path: Data Scientist: Analytics Specialist](https://www.codecademy.com/learn/paths/data-analyst)
+- 🌱 [Codecademy Skill Path: Data Science Foundations](https://www.codecademy.com/learn/paths/data-science-foundations)
 - 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
