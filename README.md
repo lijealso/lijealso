@@ -1,15 +1,14 @@
 👋 Hi, I’m @lijealso
-👀 I’m interested in ...
 
 🌱 Doing:
 - 🌱 Computer Programming
-- 🌱 Web development / Design
+- 🌱 Web development
+- 🌱 Mobile development, Android, Flutter + Dart
 - 🌱 Data Analytics
 
-
-💞️ I’m looking to collaborate on ...
-
-📫 How to reach me: lijealso@gmail.com
+📫 How to reach me:
+- lijealso@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/alves-sobreira-1ab94b21b)
 
 Have a Qualification Certificate as Programmer issued by the State Employment Agency.
 Course Units included:
