@@ -32,11 +32,12 @@ Course Units included:
 - C#
 - Curricular Internship in an NGO, grade : 20 out of 20
 
-Working on several sites of an NGO:
+Done sites of an NGO:
 - Online shop
 - Online booking system for one of the NGO's projects
-- Worpress site for one of the NGO's projects
-- Online complaints management system
+
+Developed a Android app for [Topten.pt project](https://topten.pt):
+- 🌱 [App in Play Store](https://play.google.com/store/apps/details?id=quercus.pt.topten)
 
 Learning, online courses:
 - 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
