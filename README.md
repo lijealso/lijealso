@@ -51,12 +51,16 @@ Learning, online courses:
    
 Other Certificates
 
+[CINEL](https://www.cinel.pt/appv2/O-CINEL/Quem-Somos):
+- JAVA Programming - Introduction:
+- 1 - JAVA language fundamentals (50h) - grade : 20 out of 20
+- 2 - Advanced JAVA Programming (50h) - grade : 20 out of 20
+
 Udemy:
-- [Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
+- [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart) - [Certificate](https://www.udemy.com/certificate/UC-4bfe9dbc-6201-4e24-9168-a580b4519bd4) - [Repo](https://github.com/lijealso/flutter-dart)
 
 Codecademy:
-- [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart) - [Certificate](https://www.udemy.com/certificate/UC-4bfe9dbc-6201-4e24-9168-a580b4519bd4) - [Repo](https://github.com/lijealso/flutter-dart)
-<br>
+- [Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
 
 GitHub:
 
