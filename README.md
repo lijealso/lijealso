@@ -49,10 +49,13 @@ Learning, online courses:
 - 🌱 Udemy: Python Bootcamp
 - 🌱 Udemy: Web Development Bootcamp
    
-Other Certificates:
-<p align="left"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" width="100" title="Codecademy"></p>
+Other Certificates
 
+Udemy:
 - [Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
+
+Codecademy:
+- [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart) - [Certificate](https://www.udemy.com/certificate/UC-4bfe9dbc-6201-4e24-9168-a580b4519bd4) - [Repo](https://github.com/lijealso/flutter-dart)
 <br>
 
 GitHub:
