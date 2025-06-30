@@ -33,21 +33,18 @@ Course Units included:
 
 Done sites of an NGO:
 - Online shop
-- Online booking system for one of the NGO's projects
+- Online booking system for one of the NGO's projects: [Website](https://montebarata.pt/en/)
 
 Developed a Android app for [Topten.pt project](https://topten.pt):
 - 🌱 [App in Play Store](https://play.google.com/store/apps/details?id=quercus.pt.topten)
 
 Learning, online courses:
-- 🌱 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
+- 🌱 [Desenvolvimento Web Compacto e Completo](https://www.udemy.com/course/desenvolvimento-web-compacto-e-completo)
 - 🌱 [Codecademy Skill Path: Data Science Foundations](https://www.codecademy.com/learn/paths/data-science-foundations)
-- 🌱 [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - 🌱 [HarvardX CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - 🌱 [HarvardX CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 - 🌱 [HarvardX CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)  
-- 🌱 Udemy: React.JS & Next.JS (intermediate/advanced)
-- 🌱 Udemy: Python Bootcamp
-- 🌱 Udemy: Web Development Bootcamp
    
 Other Certificates
 
