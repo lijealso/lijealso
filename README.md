@@ -58,6 +58,7 @@ Other Certificates
 
 Udemy:
 - [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart) - [Certificate](https://www.udemy.com/certificate/UC-4bfe9dbc-6201-4e24-9168-a580b4519bd4) - [Repo](https://github.com/lijealso/flutter-dart)
+- [Flutter & Dart - The Complete Guide - 2025 Edition](udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) - [Certificate](https://www.udemy.com/certificate/UC-14c92dd1-41d4-40b7-9554-3e3714107181) - [Repo](https://github.com/lijealso/learn_flutter_dart)
 
 Codecademy:
 - [Learn C Course](https://www.codecademy.com/profiles/lijealso/certificates/8c3029c4a6e5894e74da756e3a7c0ae3) - [Repo](https://github.com/lijealso/codecademy-c)
